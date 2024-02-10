@@ -1,0 +1,17 @@
+h1 {
+    font-size: 3rem;
+    color: #13a8ff;
+    font-weight: bolder;
+    text-align: center;
+    letter-spacing: 1rem;
+    margin-top: 1em;
+    font-family: "Oswald", sans-serif;
+  }
+  .line {
+    border-bottom: 3px solid #13a8ff;
+    margin-top: 2em;
+  }
+  .container {
+    width: 50%;
+    margin: 0 auto;
+  }
